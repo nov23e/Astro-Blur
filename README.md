@@ -1,4 +1,4 @@
-1# Astro Blur
+# Astro Blur
 
 一个静态Astro博客主题
 
