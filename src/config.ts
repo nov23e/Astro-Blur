@@ -1,9 +1,9 @@
 export const siteConfig: SiteConfig = {
-    title: "Hi! Jazee",
+    title: "Hi! Cyril",
     language: "zh",
-    description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
-    keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
-    author: "Jazee",
+    description: "Cyril's personal blog. Powered by Astro Blog Theme Blur.",
+    keywords: "Cyril, blog, personal blog, Astro, Astro Blog Theme Blur",
+    author: "Cyril",
     avatar: "/avatar.png",
     favicon: "/favicon.png",
     site: "https://nov23e.github.io",
